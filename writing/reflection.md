@@ -15,7 +15,7 @@ your response.
 
 1. What kind of research is this method or tool used for?
 
-This method is used for accurately evaluating of genomic sequences of data.
+This method is used for accurately evaluating the genomic sequences of data.
 
 2. How does this method or tool work? What does it do?
 
